@@ -22,3 +22,20 @@ form {
   margin: 20px 0;
   border: 1px solid #666;
 }
+
+/*-----------------*/
+
+.answers {
+  padding: 20px;
+  background: #556;
+  height: 500px;
+}
+
+.answers-header {
+  text-align: center;
+  color: #fff;
+}
+
+.answers-header p {
+  font-style: italic;
+}
