@@ -8,12 +8,13 @@ Epicodus Intro to Programming
 
 ###Description
 jQuery code review.
+A form that the user can input their favorite things. Submitting the form will show a list of their answers.
 
 ###Setup Instructions
 None.
 
 ###Link to GitHub Pages Site
-
+[Link to GitHub Pages Site](http://jeffsdev.github.io/jquery-code-review/)
 
 ###Copyright and License Info
 Copyright (c) 2015 Jeff Seymour
