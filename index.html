@@ -4,7 +4,7 @@
   <title>JQuery Code Review - Epicodus</title>
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/styles.css">
-  <script href="js/jquery-1.11.3.js"></script>
+  <script src="js/jquery-1.11.3.js"></script>
   <script src="js/scripts.js"></script>
 </head>
 <body>
@@ -20,23 +20,23 @@
         <form>
           <div class="form-group">
             <label for="">What is your favorite color?</label>
-            <input type="text" class="form-control">
+            <input type="text" class="form-control" id="q-color">
           </div>
           <div class="form-group">
             <label for="">What is your favorite videogame or tabletop game?</label>
-            <input type="text" class="form-control">
+            <input type="text" class="form-control" id="q-game">
           </div>
           <div class="form-group">
             <label for="">What is your favorite band?</label>
-            <input type="text" class="form-control">
+            <input type="text" class="form-control" id="q-band">
           </div>
           <div class="form-group">
             <label for="">What is your favorite season?</label>
-            <input type="text" class="form-control">
+            <input type="text" class="form-control" id="q-season">
           </div>
           <div class="form-group">
             <label for="">What is your favorite programming language?</label>
-            <input type="text" class="form-control">
+            <input type="text" class="form-control" id="q-lang">
           </div>
           <button type="button" class="btn btn-primary" >Submit</button>
         </form>
@@ -49,6 +49,11 @@
           <p>Complete and submit the form above to reveal your list.</p>
         </div>
       <ul id="fav-list">
+        <li id="a-color"></li>
+        <li id="a-game"></li>
+        <li id="a-band"></li>
+        <li id="a-season"></li>
+        <li id="a-lang"></li>
       </ul>
       </div>
     </section>

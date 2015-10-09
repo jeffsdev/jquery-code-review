@@ -39,3 +39,7 @@ form {
 .answers-header p {
   font-style: italic;
 }
+
+#fav-list {
+  display: none;
+}
