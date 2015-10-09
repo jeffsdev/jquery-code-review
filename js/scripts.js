@@ -14,16 +14,10 @@ $(document).ready(function() {
     $("#a-season").text(seasonInput);
     $("#a-lang").text(langInput);
 
+    $(".answers-header p").hide();
     $("#fav-list").show();
     event.preventDefault();
 
-
-  })
-
-
-
-
-
-
+  });
 
 });
