@@ -8,7 +8,7 @@ Epicodus Intro to Programming
 
 ###Description
 jQuery code review.
-A form that the user can input their favorite things. Submitting the form will show a list of their answers.
+A form where the user can input their favorite things. Submitting the form will show a list of their answers.
 
 ###Setup Instructions
 None.
